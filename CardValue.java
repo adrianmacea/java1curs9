@@ -1,0 +1,3 @@
+public enum CardValue{
+    AS, POPA, DAMA, VALET, ZECE, NOUA, OPT, SAPTE, SASE, CINCI, PATRU, TREI, DOI
+}

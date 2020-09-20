@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GameCard
+comment1.params=t\ v
+comment1.target=GameCard(CardType,\ CardValue)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

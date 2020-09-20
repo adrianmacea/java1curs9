@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Numar
+comment1.params=
+comment1.target=Numar()
+comment2.params=t
+comment2.target=Numar(java.lang.Object)
+comment3.params=t
+comment3.target=void\ setT(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ getT()
+numComments=5
